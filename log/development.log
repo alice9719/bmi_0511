@@ -1,0 +1,1383 @@
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:00:30 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by BooksController#index as HTML
+  [1m[35mBook Load (0.4ms)[0m  SELECT "books".* FROM "books"
+  Rendered books/_book.html.erb (278.0ms)
+  Rendered books/index.html.erb within layouts/books (299.6ms)
+Completed 200 OK in 7311ms (Views: 7294.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.self-c89fa49092ccc940c7887df9eed1178bcb71d655420f1181a7ba897c05ce06fa.css?body=1" for 210.61.216.120 at 2015-05-11 06:00:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.min.self-cc83565074b3fa7f2283f7f4d56b90ad171ede87008448ed5d2e91c50575bed1.js?body=1" for 210.61.216.120 at 2015-05-11 06:00:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 210.61.216.120 at 2015-05-11 06:00:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 210.61.216.120 at 2015-05-11 06:00:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for 210.61.216.120 at 2015-05-11 06:00:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 210.61.216.120 at 2015-05-11 06:00:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 210.61.216.120 at 2015-05-11 06:00:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 210.61.216.120 at 2015-05-11 06:00:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 210.61.216.120 at 2015-05-11 06:00:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 210.61.216.120 at 2015-05-11 06:00:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 210.61.216.120 at 2015-05-11 06:00:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 210.61.216.120 at 2015-05-11 06:00:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 210.61.216.120 at 2015-05-11 06:00:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 210.61.216.120 at 2015-05-11 06:00:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 210.61.216.120 at 2015-05-11 06:00:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 210.61.216.120 at 2015-05-11 06:00:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 210.61.216.120 at 2015-05-11 06:00:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/books.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 210.61.216.120 at 2015-05-11 06:00:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 210.61.216.120 at 2015-05-11 06:00:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/static_pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 210.61.216.120 at 2015-05-11 06:00:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:01:23 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  [1m[36mBook Load (0.5ms)[0m  [1mSELECT "books".* FROM "books"[0m
+  Rendered books/_book.html.erb (14.9ms)
+  Rendered books/index.html.erb within layouts/books (19.5ms)
+Completed 200 OK in 227ms (Views: 223.2ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:02:29 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#bmi as HTML
+  Rendered books/bmi.html.erb within layouts/books (0.8ms)
+Completed 200 OK in 277ms (Views: 275.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:02:44 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#bmi as HTML
+  Rendered books/bmi.html.erb within layouts/books (0.1ms)
+Completed 200 OK in 237ms (Views: 234.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:02:48 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#bmi as HTML
+  Rendered books/bmi.html.erb within layouts/books (0.1ms)
+Completed 200 OK in 231ms (Views: 229.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:03:02 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#bmi as HTML
+  Rendered books/bmi.html.erb within layouts/books (0.1ms)
+Completed 200 OK in 227ms (Views: 225.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:03:25 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#bmi as HTML
+  Rendered books/bmi.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 214ms (Views: 213.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:03:32 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#bmi as HTML
+  Rendered books/bmi.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 203ms (Views: 202.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:12:41 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#bmi as HTML
+  Rendered books/bmi.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 482ms (Views: 479.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/search" for 210.61.216.120 at 2015-05-11 06:12:44 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [POST] "/search"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.2) lib/web_console/middleware.rb:29:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /usr/local/rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /usr/local/rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /usr/local/rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (3.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (24.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (3.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (136.7ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:12:52 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#bmi as HTML
+  Rendered books/bmi.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 256ms (Views: 255.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 210.61.216.120 at 2015-05-11 06:12:54 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [POST] "/"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.2) lib/web_console/middleware.rb:29:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /usr/local/rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /usr/local/rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /usr/local/rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (3.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (79.9ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:13:51 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#bmi as HTML
+  Rendered books/bmi.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 199ms (Views: 197.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 210.61.216.120 at 2015-05-11 06:14:00 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [POST] "/"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.2) lib/web_console/middleware.rb:29:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /usr/local/rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /usr/local/rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /usr/local/rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (78.3ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:14:03 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#bmi as HTML
+  Rendered books/bmi.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 238ms (Views: 237.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:14:34 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#bmi as HTML
+  Rendered books/bmi.html.erb within layouts/application (4.3ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (wrong number of arguments (1 for 2..4)):
+    1: <%= form_tag do %>
+    2:     <%= label :"身高" %>
+    3:     <%= text_field_tag :tall %></br>
+    4:     <%= text_field_tag :weight %></br>
+    5:     <%= submit_tag %>
+  app/views/books/bmi.html.erb:2:in `block in _app_views_books_bmi_html_erb___1914351277359407024_70318571536400'
+  app/views/books/bmi.html.erb:1:in `_app_views_books_bmi_html_erb___1914351277359407024_70318571536400'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (10.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (64.6ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:14:39 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#bmi as HTML
+  Rendered books/bmi.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 225ms (Views: 223.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:14:58 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#bmi as HTML
+  Rendered books/bmi.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 335ms (Views: 333.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:15:09 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#bmi as HTML
+  Rendered books/bmi.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 334ms (Views: 332.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:15:19 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#bmi as HTML
+  Rendered books/bmi.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 223ms (Views: 222.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:15:24 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#bmi as HTML
+  Rendered books/bmi.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 263ms (Views: 262.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 210.61.216.120 at 2015-05-11 06:15:25 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [POST] "/"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.2) lib/web_console/middleware.rb:29:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /usr/local/rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /usr/local/rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /usr/local/rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (83.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:18:40 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#bmi as HTML
+  Rendered books/bmi.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 310ms (Views: 307.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 210.61.216.120 at 2015-05-11 06:18:54 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [POST] "/"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.2) lib/web_console/middleware.rb:29:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /usr/local/rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /usr/local/rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /usr/local/rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (3.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (3.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (97.7ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:23:32 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#bmi as HTML
+  Rendered books/bmi.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 234ms (Views: 230.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:25:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 225ms (Views: 219.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:25:51 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 215ms (Views: 213.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:26:05 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 199ms (Views: 197.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:26:07 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"XqeQPQy6Q4ZaHSixujhjymEfLFgijjiG/y38diH6ClqmcH/49UpmhX93RknHH+DYPrPsjJIpUwahDV8k1NH+oQ==", "author"=>"", "title"=>"", "description"=>"", "commit"=>"SAVE"}
+  Rendered books/create.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 293ms (Views: 292.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:27:58 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 329ms (Views: 326.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:28:00 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"MydiHUH1g3W15aJT70dil1ROfpdtWjwb2qy83Fb00LnL8I3YuAWmdpCPzKuSYOGFC+K+Q939V5uEjB+Oo98kQg==", "height"=>"", "weight"=>"", "commit"=>"SAVE"}
+  Rendered books/create.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 266ms (Views: 264.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:30:01 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 313ms (Views: 309.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:30:20 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"739poOl3spoOdCQHvNQo6Wi6Ctx2VuyvADt5U91kCYUXqIZlEIeXmSseSv/B86v7NxbKCMbxhy9eG9oBKE/9fg==", "height"=>"", "weight"=>"", "commit"=>"SAVE"}
+  Rendered books/create.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 235ms (Views: 233.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:30:24 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 235ms (Views: 232.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:30:26 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"az79oRGNdKq6wkrdwHRfAATyXBMdaoxuV1IhMmoiRSWT6RJk6H1RqZ+oJCW9U9wSW16cx63N5+4JcoJgnwmx3g==", "height"=>"", "weight"=>"", "commit"=>"SAVE"}
+  Rendered books/create.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 244ms (Views: 243.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:33:43 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"az79oRGNdKq6wkrdwHRfAATyXBMdaoxuV1IhMmoiRSWT6RJk6H1RqZ+oJCW9U9wSW16cx63N5+4JcoJgnwmx3g==", "height"=>"", "weight"=>"", "commit"=>"SAVE"}
+  Rendered books/create.html.erb within layouts/application (8.0ms)
+Completed 500 Internal Server Error in 16ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `/' for "":String):
+    2: Title：<%=params[:title]%>
+    3: Description：<%=params[:description]%>
+    4: 
+    5: BMI：<%= params[:height]/params[:weight] %>
+  app/views/books/create.html.erb:5:in `_app_views_books_create_html_erb___3589684297209235231_70318514638260'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (9.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (70.7ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:34:12 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"az79oRGNdKq6wkrdwHRfAATyXBMdaoxuV1IhMmoiRSWT6RJk6H1RqZ+oJCW9U9wSW16cx63N5+4JcoJgnwmx3g==", "height"=>"", "weight"=>"", "commit"=>"SAVE"}
+  Rendered books/create.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 348ms (Views: 346.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-c89fa49092ccc940c7887df9eed1178bcb71d655420f1181a7ba897c05ce06fa.css?body=1" for 210.61.216.120 at 2015-05-11 06:34:12 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.min.self-cc83565074b3fa7f2283f7f4d56b90ad171ede87008448ed5d2e91c50575bed1.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:12 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:12 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:12 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:12 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:12 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:12 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:12 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:12 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:12 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:12 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:12 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:13 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:13 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:13 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:13 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/books.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:13 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/static_pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:13 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:13 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:13 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:34:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"az79oRGNdKq6wkrdwHRfAATyXBMdaoxuV1IhMmoiRSWT6RJk6H1RqZ+oJCW9U9wSW16cx63N5+4JcoJgnwmx3g==", "height"=>"", "weight"=>"", "commit"=>"SAVE"}
+  Rendered books/create.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 288ms (Views: 285.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-c89fa49092ccc940c7887df9eed1178bcb71d655420f1181a7ba897c05ce06fa.css?body=1" for 210.61.216.120 at 2015-05-11 06:34:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.min.self-cc83565074b3fa7f2283f7f4d56b90ad171ede87008448ed5d2e91c50575bed1.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/books.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/static_pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 210.61.216.120 at 2015-05-11 06:34:36 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:34:43 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 210ms (Views: 207.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:34:47 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"5c9heubwRfZYCqghIr7PWQEa16SJKmahMzpDfvI0G9IdGI6/HwBg9X1gxtlfmUxLXrYXcDmNDSFtGuAsBx/vKQ==", "height"=>"123", "weight"=>"234", "commit"=>"SAVE"}
+  Rendered books/create.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 247ms (Views: 245.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:35:00 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"5c9heubwRfZYCqghIr7PWQEa16SJKmahMzpDfvI0G9IdGI6/HwBg9X1gxtlfmUxLXrYXcDmNDSFtGuAsBx/vKQ==", "height"=>"123", "weight"=>"234", "commit"=>"SAVE"}
+  Rendered books/create.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 241ms (Views: 239.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-c89fa49092ccc940c7887df9eed1178bcb71d655420f1181a7ba897c05ce06fa.css?body=1" for 210.61.216.120 at 2015-05-11 06:35:00 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for 210.61.216.120 at 2015-05-11 06:35:00 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.min.self-cc83565074b3fa7f2283f7f4d56b90ad171ede87008448ed5d2e91c50575bed1.js?body=1" for 210.61.216.120 at 2015-05-11 06:35:00 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 210.61.216.120 at 2015-05-11 06:35:00 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 210.61.216.120 at 2015-05-11 06:35:00 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 210.61.216.120 at 2015-05-11 06:35:00 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 210.61.216.120 at 2015-05-11 06:35:00 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 210.61.216.120 at 2015-05-11 06:35:00 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 210.61.216.120 at 2015-05-11 06:35:00 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 210.61.216.120 at 2015-05-11 06:35:00 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 210.61.216.120 at 2015-05-11 06:35:00 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 210.61.216.120 at 2015-05-11 06:35:00 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 210.61.216.120 at 2015-05-11 06:35:00 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 210.61.216.120 at 2015-05-11 06:35:01 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 210.61.216.120 at 2015-05-11 06:35:01 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/books.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 210.61.216.120 at 2015-05-11 06:35:01 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 210.61.216.120 at 2015-05-11 06:35:01 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 210.61.216.120 at 2015-05-11 06:35:01 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/static_pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 210.61.216.120 at 2015-05-11 06:35:01 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 210.61.216.120 at 2015-05-11 06:35:01 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:35:43 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"5c9heubwRfZYCqghIr7PWQEa16SJKmahMzpDfvI0G9IdGI6/HwBg9X1gxtlfmUxLXrYXcDmNDSFtGuAsBx/vKQ==", "height"=>"123", "weight"=>"234", "commit"=>"SAVE"}
+  Rendered books/create.html.erb within layouts/application (32.0ms)
+Completed 500 Internal Server Error in 37ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined local variable or method `height' for #<#<Class:0x007fe8a385bab8>:0x007fe89c8f7208>):
+    1: height：<%=params[:height]%>
+    2: weight：<%=params[:weight]%>
+    3: BMI：<%= height/weight %>
+  app/views/books/create.html.erb:3:in `_app_views_books_create_html_erb___3589684297209235231_70318517890860'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (11.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (7.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (81.3ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:36:42 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"5c9heubwRfZYCqghIr7PWQEa16SJKmahMzpDfvI0G9IdGI6/HwBg9X1gxtlfmUxLXrYXcDmNDSFtGuAsBx/vKQ==", "height"=>"123", "weight"=>"234", "commit"=>"SAVE"}
+  Rendered books/create.html.erb within layouts/application (45.4ms)
+Completed 500 Internal Server Error in 53ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `var' for #<#<Class:0x007fe8a385bab8>:0x007fe8a1ae3760>):
+    1: height：<%=params[:height]%>
+    2: weight：<%=params[:weight]%>
+    3: 
+    4: <%=var hi = params[:height]%>
+    5: <%=var we = params[:weight]%>
+    6: BMI：<%= hi/we %>
+  app/views/books/create.html.erb:4:in `_app_views_books_create_html_erb___3589684297209235231_70318560842120'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (57.7ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:46:14 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 248ms (Views: 242.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:46:16 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"4ZkkC+TVEZvl7m6Oh559xT4+u5wNohUpvs4y0UgziV0ZTsvOHSU0mMCEAHb6uf7XYZJ7SL0Ffqng7pGDvRh9pg==", "height"=>"", "weight"=>"", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 241ms (Views: 239.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:48:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 303ms (Views: 299.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:48:41 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"J1Zz0EX5ui/SzqNahSzDHJA9RkznOnx4KMgpn5wJ5CvfgZwVvAmfLPekzaL4C0AOz5GGmFedF/h26IrNaSIQ0A==", "height"=>"123", "weight"=>"234", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 223ms (Views: 221.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:50:23 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (9.1ms)
+Completed 200 OK in 482ms (Views: 478.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:50:34 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (6.0ms)
+Completed 500 Internal Server Error in 11ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (No route matches {:action=>"post", :controller=>"books"}):
+    1: <% form_tag url_for(action: :post) do %>
+    2: <label>身高</label></br>
+    3: <%=text_field_tag :height %></br>
+    4: <label>體重</label></br>
+  app/views/books/index.html.erb:1:in `_app_views_books_index_html_erb___4463524289056529099_70318516171020'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (17.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (86.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:50:46 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 364ms (Views: 361.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:51:07 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 286ms (Views: 284.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:51:09 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 221ms (Views: 220.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:51:17 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 275ms (Views: 274.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:51:20 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DojU9W0snkDOiwC0hncCOgu9VlhYod9vEJH2E6Nakpz2XzswlNy7Q+vhbkz7UIEoVBGWjOgGtO9OsVVBVnFmZw==", "height"=>"", "weight"=>"", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 228ms (Views: 226.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:51:57 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 217ms (Views: 216.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:51:59 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"kEhdQPB96b378c+KS6qVaLUsg/lmfhHKNhJrnmsSqu9on7KFCY3Mvt6boXI2jRZ66oBDLdbZekpoMsjMnjleFA==", "height"=>"", "weight"=>"", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 186ms (Views: 185.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:52:00 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 236ms (Views: 233.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:52:02 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"I4yqWa6H9l8H9kml33qGFqQYWVWUz7RmtzF+OgBLij7bW0WcV3fTXCKcJ12iXQUE+7SZgSRo3+bpEd1o9WB+xQ==", "height"=>"", "weight"=>"", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 196ms (Views: 195.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:52:04 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 203ms (Views: 201.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:52:05 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"eY9YmimiHNmSYueyW+Ama3cV8+UQDoAQgjTZXBROMzKBWLdf0FI52rcIiUomx6V5KLkzMaCp65DcFHoO4WXHyQ==", "height"=>"", "weight"=>"", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 196ms (Views: 194.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:54:09 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 265ms (Views: 262.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:54:13 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"MWVAfyvlTvhZhgjQgu3drxwdXlPDk/YpkCM4m4yj6kHJsq+60hVr+3zsZij/yl69Q7Geh3M0nanOA5vJeYgeug==", "height"=>"12", "weight"=>"234", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (8.1ms)
+Completed 500 Internal Server Error in 14ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `/' for "234":String):
+    3: 
+    4: <%= @he = params[:height] %>
+    5: <%= @we = params[:weight] %>
+    6: BMI:<%= @we/@he %>
+  app/views/books/create.html.erb:6:in `_app_views_books_create_html_erb___3589684297209235231_32112300'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (57.5ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:54:56 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 247ms (Views: 243.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:55:01 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"FnmztGLPeqopyK5Zqz7JsqqullUHWVgcMD4lBqHJZpDurlxxmz9fqQyiwKHWGUqg9QJWgbf+M5xuHoZUVOKSaw==", "height"=>"12", "weight"=>"23", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (8.2ms)
+Completed 500 Internal Server Error in 14ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `integer' for "23":String):
+    3: 
+    4: <%= @he = params[:height] %>
+    5: <%= @we = params[:weight] %>
+    6: BMI:<%= @we.integer / @he.integer %>
+  app/views/books/create.html.erb:6:in `_app_views_books_create_html_erb___3589684297209235231_70318577295840'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (10.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (72.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:55:08 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 382ms (Views: 380.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:55:11 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"tmIWRj/kMHl8JzDQ2odlXjAWorQ5148BztV7zovOe6lOtfmDxhQVellNXiinoOZMb7piYIlw5IGQ9dicfuWPUg==", "height"=>"123", "weight"=>"234", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 205ms (Views: 203.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:55:33 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 219ms (Views: 217.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:55:36 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"70eKCK9gS0/CdolL+shzj/lyOt74qIdEhmHP+CmNHloXkGXNVpBuTOcc57OH7/Cdpt76CkgP7MTYQWyq3KbqoQ==", "height"=>"12", "weight"=>"23", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 203ms (Views: 201.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:58:22 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 305ms (Views: 299.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:58:25 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"olc/ZKj33uJ6PuONCsLSml6ofcHIcKPAI9UURluPodpagNChUQf74V9UjXV35VGIAQS9FXjXyEB99bcUrqRVIQ==", "height"=>"123", "weight"=>"234", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (40.4ms)
+Completed 500 Internal Server Error in 48ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `int' for #<#<Class:0x007fe8a19e44e0>:0x007fe8a1ed0080>):
+    1: height：<%=params[:height]%>
+    2: weight：<%=params[:weight]%>
+    3: 
+    4: <% int he = params[:height] %>
+    5: <% @we = params[:weight] %>
+    6: 
+    7: <%= he %>
+  app/views/books/create.html.erb:4:in `_app_views_books_create_html_erb___3589684297209235231_70318562940480'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (66.4ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 06:58:55 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 244ms (Views: 241.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 06:59:00 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"9g6cXI3v16pM5dE2LMY46VFRhIsoQ+PXSWhow8swhsAO2XOZdB/yqWmPv85R4bv7Dv1EX5jkiFcXSMuRPhtyOw==", "height"=>"123", "weight"=>"234", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (22.1ms)
+Completed 500 Internal Server Error in 28ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `int' for #<#<Class:0x007fe8a19e44e0>:0x007fe89c992c58>):
+    2: weight：<%=params[:weight]%>
+    3: 
+    4: <% @he = params[:height] %>
+    5: <% int he = @he %>
+    6: <% @we = params[:weight] %>
+    7: 
+    8: <%= he %>
+  app/views/books/create.html.erb:5:in `_app_views_books_create_html_erb___3589684297209235231_70318518208860'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.5@rails4/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (64.3ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 07:05:15 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 255ms (Views: 252.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 07:05:19 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"qJ1ly5badesOhdPcDQOZhDwdmYKi0ou3H6fOr3AoB9VQSooObypQ6CvvvSRwJBqWY7FZVhJ14DdBh239hQPzLg==", "height"=>"123", "weight"=>"23", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 219ms (Views: 218.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 07:05:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 207ms (Views: 206.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 07:05:42 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"QFgtP8xwbCQL8C1ITmfKOjdAfloIHrfNOvdZrdkmqWS4j8L6NYBJJy6aQ7AzQEkoaOy+jri53E1k1/r/LA1dnw==", "height"=>"123", "weight"=>"234", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 212ms (Views: 211.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 07:06:15 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 224ms (Views: 222.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 07:06:19 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"BwV9MRxQGGDhaf+5hnJufgAPWeyVJSyUq96IKVDJhVj/0pL05aA9Y8QDkUH7Ve1sX6OZOCWCRxT1/it7peJxow==", "height"=>"12", "weight"=>"23", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 199ms (Views: 198.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 07:06:34 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 278ms (Views: 276.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 07:06:38 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"8qzdHb5Vp8hXFmFH2FQUlprxVeH0phHXVcjlvDzasL8KezLYR6WCy3J8D7+lc5eExV2VNUQBelcL6EbuyfFERA==", "height"=>"123", "weight"=>"23", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 208ms (Views: 207.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 07:06:48 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 244ms (Views: 241.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 07:06:51 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+Qyzl86nvRjICYlgXQODbj78EeEois7YKDk+qvrrucgB21xSN1eYG+1j55ggJAB8YVDRNZgtpVh2GZ34D8BNMw==", "height"=>"12", "weight"=>"234", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 260ms (Views: 258.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 07:08:40 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 251ms (Views: 248.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 07:08:56 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"qmOr2OGQrUqaDnuqYgJ3OOYaYjkpPHXtgzu5BiTJFdVStEQdGGCISb9kFVIfJfQqubai7ZmbHm3dGxpU0eLhLg==", "height"=>"1.5", "weight"=>"40", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 238ms (Views: 235.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 07:09:24 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 253ms (Views: 251.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 07:09:29 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"qPtCEBQ3efDSxOdwlI0vCUYxExgj0oeDpPgbOOWiOURQLK3V7cdc8/euiYjpqqwbGZ3TzJN17AP62LhqEInNvw==", "height"=>"1.5", "weight"=>"40", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 221ms (Views: 220.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 07:10:01 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 303ms (Views: 301.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 07:10:04 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"9BjCMHZQOK8Y8j2haxyts+ffdS3dbSRfmddpedB7tEAMzy31j6AdrD2YU1kWOy6huHO1+W3KT9/H98orJVBAuw==", "height"=>"1.5", "weight"=>"40", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 254ms (Views: 253.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 07:10:46 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 233ms (Views: 230.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 07:10:53 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"FNEJCA70XmoxpS0tbyxT+GcfgXyBcO2c4bPPwA9z7JrsBubN9wR7aRTPQ9USC9DqOLNBqDHXhhy/k2yS+lgYYQ==", "height"=>"1.6", "weight"=>"50", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 246ms (Views: 244.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 07:11:29 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 227ms (Views: 225.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 07:11:33 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"5Xw6eC3CbGDpkNYNeK+jKax71eDqhh/ZTfXT01SljtQdq9W91DJJY8z6uPUFiCA789cVNFohdFkT1XCBoY56Lw==", "height"=>"1.6", "weight"=>"50", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 221ms (Views: 219.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 07:12:35 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 257ms (Views: 254.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 07:12:39 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"6IZJEdCIurRz74v7X1wcsD8pbm9g9miunp35qpNj9JAQUabUKXift1aF5QMie5+iYIWuu9BRAy7AvVr4ZkgAaw==", "height"=>"1.6", "weight"=>"50", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 253ms (Views: 251.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 07:14:10 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 479ms (Views: 475.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 07:14:18 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"i+P/TQBfKLUVoP4tbxMe7PpiupA+mo7DwL32XOmXeV5zNBCI+a8NtjDKkNUSNJ3+pc56RI495UOenVUOHLyNpQ==", "height"=>"1.6", "weight"=>"50", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 355ms (Views: 353.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 07:15:32 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 251ms (Views: 248.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 07:15:37 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Xd9neChbwH2f/+ACm16eRt8BBjkg9msaGlcyw0n/YsGlCIi90avlfrqVjvrmeR1UgK3G7ZBRAJpEd5GRvNSWOg==", "height"=>"1.6", "weight"=>"50", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 228ms (Views: 226.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 07:17:52 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 271ms (Views: 268.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 07:17:56 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Z3ipEfRniSnJzG5TsLub+UkxrSI+hWnXZ9c3YhmUD3qfr0bUDZesKuymAKvNnBjrFp1t9o4iAlc595Qw7L/7gQ==", "height"=>"1.5", "weight"=>"40", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 221ms (Views: 219.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 07:18:13 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 251ms (Views: 250.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 07:18:17 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"4OGhLld6liEaShu8JTHucolsh08aiACgATTbIE7GhW8YNk7rroqzIj8gdURYFm1g1sBHm6ovayBfFHhyu+1xlA==", "height"=>"1.6", "weight"=>"50", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 256ms (Views: 254.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 07:18:24 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 217ms (Views: 211.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 07:18:28 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"5YiPsyH/7bs7SWt6k28v5NAth+wf5jjz0X6ViqqhMf0dX2B22A/IuB4jBYLuSKz2j4FHOK9BU3OPXjbYX4rFBg==", "height"=>"1.6", "weight"=>"40", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 310ms (Views: 308.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 210.61.216.120 at 2015-05-11 07:18:37 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  Rendered books/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 258ms (Views: 253.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/books" for 210.61.216.120 at 2015-05-11 07:18:40 +0000
+Cannot render console from 210.61.216.120! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"it+1hFC/vSSro7kBPR4l7J2ytA24IdwR6m/KpM3zVxZyCFpBqU+YJ47J1/lAOab+wh502QiGt5G0T2n2ONij7Q==", "height"=>"1.6", "weight"=>"50", "commit"=>"計算"}
+  Rendered books/create.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 247ms (Views: 245.4ms | ActiveRecord: 0.0ms)

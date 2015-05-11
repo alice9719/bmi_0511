@@ -1,0 +1,7 @@
+身高：<%=params[:height]%></br>
+體重：<%=params[:weight]%></br>
+
+<% he = params[:height].to_f %>
+<% we = params[:weight].to_f %>
+
+BMI：<%=( we/(he*he)).round(2) %>

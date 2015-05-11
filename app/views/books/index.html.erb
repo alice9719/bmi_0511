@@ -1,0 +1,11 @@
+<%=form_tag '/books', method: :post do%>
+<label>身高(請輸入公尺)</label></br>
+<%=text_field_tag :height %></br>
+<label>體重</label></br>
+<%=text_field_tag :weight %></br>
+
+<%=submit_tag '計算'%>
+
+
+
+<%end%>
