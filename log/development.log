@@ -1381,3 +1381,5 @@ Processing by BooksController#create as HTML
   Parameters: {"utf8"=>"✓", "authenticity_token"=>"it+1hFC/vSSro7kBPR4l7J2ytA24IdwR6m/KpM3zVxZyCFpBqU+YJ47J1/lAOab+wh502QiGt5G0T2n2ONij7Q==", "height"=>"1.6", "weight"=>"50", "commit"=>"計算"}
   Rendered books/create.html.erb within layouts/application (0.4ms)
 Completed 200 OK in 247ms (Views: 245.4ms | ActiveRecord: 0.0ms)
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.2ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
